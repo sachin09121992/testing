@@ -1,1 +1,1 @@
-Testing the scripts!!
+Testing the scripts using commit hash!!
